@@ -32,16 +32,6 @@
       "route": "schedule",
       "permalink": "/schedule/",
       "label": "Расписание"
-    },
-    {
-      "route": "team",
-      "permalink": "/team/",
-      "label": "Команда"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Блог"
     }
   ],
   "heroSettings": {
