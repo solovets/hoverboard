@@ -53,8 +53,8 @@
     },
     "speakers": {
       "title": "Спикеры",
-      "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
+      "metaDescription": "Вы услышите экспертов Google, наших гостей и партнеров, всех тех, с кем мы строим будушее нашей платформы. Возвращайтесь к этой страничке время от времени: возможно, мы добавим доклады и интересных спикеров.",
+      "description": "Вы услышите экспертов Google, наших гостей и партнеров, всех тех, с кем мы строим будушее нашей платформы. Возвращайтесь к этой страничке время от времени: возможно, мы добавим доклады и интересных спикеров.",
       "background": {
         "color": "#FFF"
       },
@@ -116,7 +116,7 @@
       "latitude": 51,
       "longitude": 39
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "GDG DevFest Voronezh 2018 пройдет в центре города Воронежа в одном из наиболее престижных отелей — Mercure."
   },
   "mediaQueries": {
     "xs": {
@@ -206,16 +206,16 @@
       "itemsCount": 2
     },
     "blog": {
-      "itemsCount": 3
+      "itemsCount": 0
     },
     "speakers": {
       "itemsCount": 4
     },
     "previousSpeakers": {
-      "itemsCount": 6
+      "itemsCount": 0
     },
     "tickets": {
-      "itemsCount": 5
+      "itemsCount": 3
     }
   }
 }

@@ -1,45 +1,40 @@
 {
-  "title": "GDG DevFest Season 2018",
-  "description": "Be a hero. Be a GDG!",
+  "title": "GDG DevFest Voronezh Season 2018",
+  "description": "Стань героем GDG!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
+  "dates": "24 ноября 2018 года",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
-  "share": "Share",
+  "share": "Поделиться",
   "followOur": "Follow our",
-  "followUs": "Follow us",
-  "emailUs": "Email us",
+  "followUs": "Следите за нами",
+  "emailUs": "Написать",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
-  "signIn": "Sign in",
-  "signOut": "Sign out",
-  "viewHighlights": "View Highlights",
-  "offlineMessage": "You can still work offline.",
-  "cachingComplete": "Caching complete! Future visits will work offline.",
-  "newVersionAvailable": "A new version of this app is available.",
-  "refresh": "Refresh",
+  "buyTicket": "Купить билет",
+  "signIn": "Войти",
+  "signOut": "Выйти",
+  "viewHighlights": "Анонс DevFest 2018",
+  "offlineMessage": "Можно продолжить работу оффлайн",
+  "cachingComplete": "Кеширование завершено, в следующий раз можно работать оффлайн.",
+  "newVersionAvailable": "Доступна новая версия нашего приложения",
+  "refresh": "Обновить",
   "position": "Position",
-  "country": "Country",
-  "time": "Time",
+  "country": "Страна",
+  "time": "Время",
   "faq": "/data/faq.md",
   "cod": "/data/cod.md",
   "footer": {
-    "blog": "Blog"
+    "blog": "Блог"
   },
   "mySchedule": {
-    "title": "My Schedule",
+    "title": "Мое расписание",
     "browseSession": "Browse sessions"
   },
   "footerRelBlock": [
     {
-      "title": "About",
+      "title": "Инфо",
       "links": [
-        {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
-          "newTab": true
-        },
         {
           "name": "Google Developers Group",
           "url": "https://developers.google.com/",
@@ -47,62 +42,7 @@
         },
         {
           "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
-          "newTab": true
-        }
-      ]
-    },
-    {
-      "title": "Explore Past DevFests",
-      "links": [
-        {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
-          "newTab": true
-        }
-      ]
-    },
-    {
-      "title": "Event Resources",
-      "links": [
-        {
-          "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Media Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
-          "newTab": true
-        },
-        {
-          "name": "FAQs",
-          "url": "/faq/",
+          "url": "https://devfest-vrn.ru",
           "newTab": false
         }
       ]
@@ -121,45 +61,45 @@
       "howItWas": {
         "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
         "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "youtubeId": "rogFr-B4pnM"
       }
     },
     "statisticsBlock": {
       "attendees": {
-        "label": "Attendees",
-        "number": "900"
+        "label": "Участников",
+        "number": "300+"
       },
       "days": {
-        "label": "Days",
-        "number": "2"
+        "label": "день",
+        "number": "1"
       },
       "sessions": {
-        "label": "Sessions",
-        "number": "50"
+        "label": "Докладов",
+        "number": "12"
       },
       "tracks": {
-        "label": "Tracks",
-        "number": "4"
+        "label": "Потока",
+        "number": "2"
       }
     }
   },
   "ticketsBlock": {
-    "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
-    "soldOut": "You missed it!",
-    "notAvailableYet": "Not available yet",
-    "save": "Save ${discount}% today"
+    "title": "Счастливый билет",
+    "ticketsDetails": "Билет гарантирует доступ ко всем событиям конференции, будь то лекции, кофе-брейк или любые другие активности.",
+    "soldOut": "Увы, уже поздно",
+    "notAvailableYet": "Пока недоступно",
+    "save": "Сэкономь ${discount}% до 22.11"
   },
   "partnersBlock": {
-    "title": "Partners",
-    "button": "Become a partner",
+    "title": "Партнеры",
+    "button": "Стать партнером",
     "form": {
-      "title": "Become a partner!",
-      "submitLabel": "Submit",
-      "fullName": "Full Name",
-      "companyName": "Company Name"
+      "title": "Стань нашим партнером",
+      "submitLabel": "Отправить",
+      "fullName": "Ваше имя",
+      "companyName": "Компания"
     },
-    "toast": "We will contact you soon!"
+    "toast": "Спасибо, мы свяжемся с вами в ближайшее время"
   },
   "featuredVideos": {
     "title": "DFUA'16 featured videos",
@@ -199,20 +139,20 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
-    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "title": "GDG DevFest Voronezh 2017",
+    "description": "В прошлом году было круто. В этом будет еще круче!",
     "callToAction": {
-      "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "label": "Посмотреть фото",
+      "link": "https://photos.app.goo.gl/k88yqxwDDRG1Rxpo9"
     }
   },
   "mapBlock": {
-    "title": "Location"
+    "title": "Расположение"
   },
   "subscribeBlock": {
     "callToAction": {
-      "description": "Get notified about the important conference updates",
-      "label": "Subscribe"
+      "description": "Подпишись на важные новости GDG DevFest Voronezh 2018",
+      "label": "Подписаться"
     },
     "yourEmail": "Your email",
     "emailAddress": "Email Address",
@@ -230,29 +170,29 @@
     "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
   },
   "schedule": {
-    "saveSessionsSignedOut": "Sign in to save sessions"
+    "saveSessionsSignedOut": "Войдите, чтобы составить свое расписание"
   },
   "sessionDetails": {
     "contentLevel": "Content level",
-    "viewPresentation": "View presentation",
-    "viewVideo": "View video",
-    "speakers": "Speakers"
+    "viewPresentation": "Презентация",
+    "viewVideo": "Видео",
+    "speakers": "Спикеры"
   },
   "speakerDetails": {
-    "sessions": "Sessions"
+    "sessions": "Потоки"
   },
   "notifications": {
-    "default": "Enable notifications",
-    "enabled": "We will miss you but you can unsubscribe anytime",
-    "blocked": "We can't send you notifications right now. Please enable notifications in your browser",
-    "subscribe": "Subscribe",
-    "unsubscribe": "Unsubscribe",
+    "default": "Разрешить уведомления",
+    "enabled": "Вы можете отписаться в любое время",
+    "blocked": "Сейчас мы не может отправлять вам уведомления. Активируйте эту функцию в своем браузере.",
+    "subscribe": "Подписаться",
+    "unsubscribe": "Отписаться",
     "enable": {
-      "label": "Enable",
+      "label": "Разрешить",
       "link": "https://pushassist.com/knowledgebase/how-to-enable-or-disable-push-notifications-on-chrome-firefox-safari-b/"
     },
     "toast": {
-      "title": "Open"
+      "title": "Открыть"
     }
   },
   "aboutOrganizerBlock": {
