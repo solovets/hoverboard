@@ -29,7 +29,7 @@
           "order": 0,
           "logoUrl": "../images/logos/gdg-voronezh.png",
           "name": "GDG Voronezh",
-          "url": "https://plus.google.com/102444623953913144164"
+          "url": "https://devfest-vrn.ru"
         }
       ],
       "order": 0,
@@ -44,30 +44,30 @@
           "url": "https://www.google.com"
         },
         {
-          "order": 3,
+          "order": 1,
           "logoUrl": "../images/logos/gdg-x.svg",
           "name": "GDG[x]",
           "url": "https://github.com/gdg-x"
         },{
-          "order": 3,
+          "order": 2,
           "logoUrl": "../images/logos/p_dataart.png",
           "name": "DataArt",
           "url": "https://dataart.ru"
         },
         {
-          "order": 1,
+          "order": 3,
           "logoUrl": "../images/logos/p_vsu.png",
           "name": "ВГУ",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "order": 2,
-          "logoUrl": "../images/logos/p_moikrug.png",
-          "name": "Мой круг",
-          "url": "https://github.com/gdg-x"
+          "url": "http:/vsu.ru"
         },
         {
           "order": 4,
+          "logoUrl": "../images/logos/p_moikrug.png",
+          "name": "Мой круг",
+          "url": "https://moikrug.ru"
+        },
+        {
+          "order": 5,
           "logoUrl": "../images/logos/p_hh.png",
           "name": "Head Hunter",
           "url": "https://hh.ru"
@@ -76,25 +76,25 @@
           "order": 5,
           "logoUrl": "../images/logos/p_coddy.png",
           "name": "Coddy",
-          "url": "https://github.com/gdg-x"
+          "url": "https://coddyschool.com"
         },
         {
           "order": 6,
           "logoUrl": "../images/logos/p_wtm.jpg",
           "name": "WTM Voronezh",
-          "url": "https://www.google.com.ua/intl/en/about/"
+          "url": "https://www.womentechmakers.com"
         },
         {
           "order": 7,
           "logoUrl": "../images/logos/p_kvantorium.jpg",
           "name": "Кванториум",
-          "url": "https://github.com/gdg-x"
+          "url": "http://kvantorium.ru"
         },
         {
           "order": 8,
           "logoUrl": "../images/logos/p_stazhirovka.png",
           "name": "Стажировка.Ру",
-          "url": "https://www.google.com.ua/intl/en/about/"
+          "url": "https://stazhirovka.ru"
         }
       ],
       "order": 1,
@@ -341,8 +341,6 @@
       } ],
       "bio" : "Developer, Co-Founder & CTO в PapaJobs, GDE Android",
       "company" : "PapaJobs",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
       "country" : "Россия",
       "featured" : true,
       "name" : "Александр Смирнов",

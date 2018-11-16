@@ -3,7 +3,7 @@
     "name": "GDG DevFest Voronezh",
     "twitter": "gdglviv",
     "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "url": "http://devfest-vrn.ru"
   },
   "startDate": "2018-11-24T10:00:00+03:00",
   "endDate": "2018-11-24T18:00:00+03:00",
@@ -172,11 +172,7 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
-  "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
-  },
+  "mailto": "hello@devfest-vrn.ru",
   "signInProviders": {
     "providersData": [
       {
@@ -209,7 +205,7 @@
       "itemsCount": 0
     },
     "speakers": {
-      "itemsCount": 4
+      "itemsCount": 2
     },
     "previousSpeakers": {
       "itemsCount": 0

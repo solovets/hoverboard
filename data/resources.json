@@ -51,17 +51,12 @@
   "subscribeNote": "No spam, only the latest news and updates!",
   "codeOfConduct": "Code of Conduct",
   "aboutBlock": {
-    "title": "What you need to know, before you ask.",
+    "title": "Что вас ждет на GDG DevFest Voronezh 2018",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Ukraine brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
-        "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
-      },
-      "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-        "label": "See how it was in 2016",
-        "youtubeId": "rogFr-B4pnM"
+        "description": "Самые актуальные темы от ведущих экспертов. Темы этого года: машинное обучение, искусственный интеллект, веб- и мобильная разработка, soft skills для разработчиков. Поговорим про технологии, сложности внедрения и применения, поделимся своим опытом, узнаем не только о том, как прокачать себя в программировании, но и об универсальных навыках.",
+        "label": "Анонс GDG DevFest Season 2018",
+        "link": "https://www.youtube.com/watch?v=rogFr-B4pnM"
       }
     },
     "statisticsBlock": {
@@ -125,9 +120,9 @@
     "previousYear": "Year"
   },
   "speakersBlock": {
-    "title": "Rockstar speakers",
+    "title": "Специальные гости",
     "callToAction": {
-      "label": "View all speakers",
+      "label": "Посмотреть всех спикеров",
       "link": "/speakers/"
     }
   },
@@ -143,7 +138,7 @@
     "description": "В прошлом году было круто. В этом будет еще круче!",
     "callToAction": {
       "label": "Посмотреть фото",
-      "link": "https://photos.app.goo.gl/k88yqxwDDRG1Rxpo9"
+      "link": "https://www.flickr.com/photos/outsourcing/sets/72157686152124630"
     }
   },
   "mapBlock": {
@@ -154,17 +149,17 @@
       "description": "Подпишись на важные новости GDG DevFest Voronezh 2018",
       "label": "Подписаться"
     },
-    "yourEmail": "Your email",
-    "emailAddress": "Email Address",
-    "firstName": "First Name",
-    "lastName": "Last Name",
+    "yourEmail": "Ваш email",
+    "emailAddress": "Электронная почта",
+    "firstName": "Имя",
+    "lastName": "Фамилия",
     "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
-    "emailRequired": "Please enter a valid email address.",
-    "subscribe": "Subscribe",
-    "subscribed": "Subscribed",
-    "close": "Close",
-    "generalError": "Some error has occured. Please, try again later.",
-    "toast": "Successfully subscribed!"
+    "emailRequired": "Проверьте правильность электронной почты",
+    "subscribe": "Подписаться",
+    "subscribed": "Подписка оформлена",
+    "close": "Отмена",
+    "generalError": "Произошла ошибка, попробуйте еще раз",
+    "toast": "Подписка успешно оформлена"
   },
   "team": {
     "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
