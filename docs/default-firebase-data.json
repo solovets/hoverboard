@@ -203,7 +203,7 @@
           "startTime": "16:00"
         },
         {
-          "endTime": "17:00",
+          "endTime": "18:00",
           "sessions": [
             {
               "items": [
@@ -216,7 +216,7 @@
               ]
             }
           ],
-          "startTime": "16:00"
+          "startTime": "17:00"
         }
       ],
       "tracks": [
@@ -692,7 +692,7 @@
     "ends" : "10.11",
     "inDemand" : false,
     "info" : "Для тех, кто следит за анонсами в мире IT",
-    "name" : "Низкий старт",
+    "name" : "Early Bird",
     "price" : 500,
     "regular" : true,
     "soldOut" : true,
@@ -704,7 +704,7 @@
     "ends" : "21.11",
     "inDemand" : true,
     "info" : "Для тех, кто не может пропстить событие года",
-    "name" : "Страт",
+    "name" : "Standard",
     "price" : 700,
     "regular" : true,
     "soldOut" : false,
@@ -716,7 +716,7 @@
     "ends" : "24.11",
     "inDemand" : false,
     "info" : "Деньги не имеют значения, если вы действительно чего-то хотите",
-    "name" : "Финишная прямая",
+    "name" : "Last Chance",
     "primary" : true,
     "price" : 900,
     "regular" : true,

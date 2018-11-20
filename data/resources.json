@@ -62,15 +62,15 @@
     "statisticsBlock": {
       "attendees": {
         "label": "Участников",
-        "number": "300+"
+        "number": "150+"
       },
       "days": {
-        "label": "день",
-        "number": "1"
+        "label": "часов",
+        "number": "10"
       },
       "sessions": {
         "label": "Докладов",
-        "number": "12"
+        "number": "11"
       },
       "tracks": {
         "label": "Потока",
