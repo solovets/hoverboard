@@ -699,11 +699,11 @@
     "starts" : "1.11",
     "url" : "https://gdg-voronezh.timepad.ru/event/845720/"
   }, {
-    "available" : true,
+    "available" : false,
     "currency" : "₽",
     "ends" : "21.11",
     "inDemand" : true,
-    "info" : "Для тех, кто не может пропстить событие года",
+    "info" : "Для тех, кто не может пропустить событие года",
     "name" : "Standard",
     "price" : 700,
     "regular" : true,
@@ -711,7 +711,7 @@
     "starts" : "11.11",
     "url" : "https://gdg-voronezh.timepad.ru/event/845720/"
   }, {
-    "available" : false,
+    "available" : true,
     "currency" : "₽",
     "ends" : "24.11",
     "inDemand" : false,
